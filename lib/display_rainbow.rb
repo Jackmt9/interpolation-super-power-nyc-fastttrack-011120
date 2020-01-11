@@ -7,3 +7,4 @@ def colors(colorArray)
   puts "B: #{colorArray[4]} , "
   puts "I: #{colorArray[5]} , "
   puts "V: #{colorArray[6]}"
+end
